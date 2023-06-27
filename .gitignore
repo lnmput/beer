@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/packages
+/.idea
+/.vscode
+/.vagrant
+/storage/clockwork/
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.php_cs.cache
+.user.ini
